@@ -140,4 +140,4 @@ I would estimate the total consumption to average around 90 watts, incl.
 
 If you're reading this and thinking this might benefit you, I highly encourage you to take the leap. I started with a single Dell SFF PC purchased secondhand for $40. Generally I have taken the "do more with less" approach in an attempt to save money and get creative with solutions. While it's the dream of many an IT professional to have a full rack in their closet, starting where you can is far better than not starting at all.
 
-If you have any feedback or input I would be happy to get in touch via [email](mailto:alan.l.abbott@gmail.com). Let me know what you would do different or ask any questions about getting started!
+If you have any feedback or input I would be happy to get in touch via [email](mailto:alabbott@pm.me). Let me know what you would do different or ask any questions about getting started!

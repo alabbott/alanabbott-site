@@ -263,4 +263,4 @@ For learning tech skills, there's nothing like actually doing it to build your u
 
 This is just the start, and represents hundreds of tradeoffs between the right way and the most practical way, and of course constrained by time, budget, and physical space. Still, I'm proud of the system I've built over time and the skills I've developed along the way.
 
-If you found this helpful feel free to [buy me a coffee](https://buymeacoffee.com/alabbott), and if you have any feedback or input I would be happy to get in touch via [email](mailto:alan.l.abbott@gmail.com).
+If you found this helpful feel free to [buy me a coffee](https://buymeacoffee.com/alabbott), and if you have any feedback or input I would be happy to get in touch via [email](mailto:alabbott@pm.me).
