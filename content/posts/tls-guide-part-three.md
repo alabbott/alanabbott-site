@@ -174,6 +174,6 @@ By following these steps, you should be able to fix a CN name mismatch error and
 
 This concludes the SSL/TLS guide, I hope it will be a good resource for anyone looking to better understand this fundamental part of security that is found nearly everywhere nowadays. I know writing this guide really helped solidify the concpets and has helped me in professioanl and personal projects alike. 
 
-If you found this helpful feel free to [buy me a coffee](https://buymeacoffee.com/alabbott), and if you have any feedback or corrections I would be happy to get in touch via [email](mailto:alan.l.abbott@gmail.com).
+If you found this helpful feel free to [buy me a coffee](https://buymeacoffee.com/alabbott), and if you have any feedback or corrections I would be happy to get in touch via [email](mailto:alabbott@pm.me).
 
 Thanks for reading!

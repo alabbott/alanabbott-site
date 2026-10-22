@@ -83,4 +83,4 @@ Services such as [Let's Encrypt](https://letsencrypt.org/), a free certificate a
 
 Continue reading [Part Three](/posts/2024/06/ssl/tls-guide-part-three-tools-for-working-with-certificates/) to learn about some common tools used for working with certificates, or go back to [Part One](/posts/2024/06/ssl/tls-guide-part-one-public/private-keys/) to learn about public / private keys as the foundation for X.509 certificates.
 
-If you found this helpful feel free to [buy me a coffee](https://buymeacoffee.com/alabbott), and if you have any feedback or corrections I would be happy to get in touch via [email](mailto:alan.l.abbott@gmail.com).
+If you found this helpful feel free to [buy me a coffee](https://buymeacoffee.com/alabbott), and if you have any feedback or corrections I would be happy to get in touch via [email](mailto:alabbott@pm.me).

@@ -93,4 +93,4 @@ There is the possibility that quantum computers could very quickly break the enc
 
 Continue reading [Part Two](/posts/2024/06/ssl/tls-guide-part-two-certificates/) to learn about how X.509 certificates enable TLS communication and keep the modern internet secure.
 
-If you found this helpful feel free to [buy me a coffee](https://buymeacoffee.com/alabbott), and if you have any feedback or corrections I would be happy to get in touch via [email](mailto:alan.l.abbott@gmail.com).
+If you found this helpful feel free to [buy me a coffee](https://buymeacoffee.com/alabbott), and if you have any feedback or corrections I would be happy to get in touch via [email](mailto:alabbott@pm.me).

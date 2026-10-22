@@ -163,12 +163,8 @@ disableHugoGeneratorInject = false
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/alaabbott"
-
-  [[params.social]]
     name = "email"
-    url  = "mailto:alan.l.abbott@gmail.com"
+    url  = "mailto:alabbott@pm.me"
 
   [[params.social]]
     name = "github"

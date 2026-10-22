@@ -77,4 +77,4 @@ Now you should be up and running! Take your Pwnagotchi out into the wild and see
 
 More detailed instructions exist at [pwnagotchi.org](https://pwnagotchi.org/) for putting your own device together. I would recommend giving the documentation a read as there are several configuration options and cool things you can do that I haven't covered here.
 
-Let me know if your build your own, I'd love to see what you create! If you have any feedback or questions I would be happy to get in touch via [email](mailto:alan.l.abbott@gmail.com).
+Let me know if your build your own, I'd love to see what you create! If you have any feedback or questions I would be happy to get in touch via [email](mailto:alabbott@pm.me).
