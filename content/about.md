@@ -32,4 +32,14 @@ Offline I'm a climber, skier, mountaineer, amateur natrualist and sometimes arti
 
 Professionally, I work as an Enterprise Solution Consultant in the manufacturing industry.  I get to help people solve tough problems while seeing how just about everything gets made. I like my job becuase I get to lean into the tech while watching the creativity that makes just about everything I touch. 
 
-I'm always happy to chat about interesting problems and open to new opportunities. You can email me [here](mailto:alan.l.abbott@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/alanabbott/).
+I'm always happy to chat about interesting problems and open to new opportunities. You can email me [here](mailto:alabbott@pm.me) or reach out on [LinkedIn](https://www.linkedin.com/in/alanabbott/).
+
+## Verify / contact
+
+PGP: [`pgp.asc`](/pgp.asc) — also via WKD and [github.com/alabbott.gpg](https://github.com/alabbott.gpg)
+
+```
+9D02 3DAA 80F0 A04A 2A19  1A2C E48F 1CBC A789 4979
+```
+
+Signed identity statement (SimpleX, LXMF, accounts): [`identity.txt.asc`](/identity.txt.asc)
